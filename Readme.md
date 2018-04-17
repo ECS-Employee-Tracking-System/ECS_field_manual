@@ -5,12 +5,14 @@ Made with love by Chistopher Kingdon, Austin Dolby, Michael Dimmitt, Jerrad Mona
 
 ## Workflows: 
 How to log into the system:
-1) 
+> Login (center of screen)
 
 How to enter a user and assign them predefined certifications:
+> Login -> (resolves to DashBoard page) -> activate admin dropdown -> add staff member
 1)
 
 How to create a custom certification:
+
 1) 
 
 How to generate a custom report:
@@ -25,10 +27,11 @@ Login - Login is required for the ECS employee tracking program.
 
 Dash Board - Main interface the "View Only User" and Admin interact with upon login. 
 <br>- dashboard is organized with the ability to filter and a color coding on certification cells notifying level of escalation for a particular user.
-0) "Create" a new User
-1) "Edit" a pre existing User
-2) Build a "Report" from the current dashboard screen.
-3) Pagination is supported by the application along with the ability to increase or decrease pagination size.
+0) Filters are presented at the top of every column that upon click can sort in ascending or descending order.
+1) "Create" a new User
+2) "Edit" a pre existing User
+3) Build a "Report" from the current dashboard screen.
+4) Pagination is supported by the application along with the ability to increase or decrease pagination size.
 
 Reset Password
 1)
